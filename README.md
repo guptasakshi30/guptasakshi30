@@ -3,13 +3,12 @@
 <h1 align="center">Aloha! 👋 I'm Sakshi Gupta </h1>
 
 
-<p aligh="left">I'm a Cyber Security Researcher. My area of expertice would be Application Security and Network Security. I'm also trying to do well in Bug Bounties.Basically am trying to make the internet a better place 😜.</p>
+<p aligh="left">I'm VLSI Validation Engineer | Expert in post-silicon validation & test automation | Dedicated to ensuring robust semiconductor designs | Let's validate and innovate together! 🚀</p>
 
 <br>
 
-[![Twitter](https://img.shields.io/static/v1?style=for-the-badge&logo=twitter&label=Twitter&message=R1SH1KE5H&color=blue)](https://twitter.com/r1sh1ke5h)
-[![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&logo=linkedin&label=LinkedIn&message=Rishikesh-J&color=blue)](https://www.linkedin.com/in/rishikesh-j/)
-[![Gmail](https://img.shields.io/static/v1?style=for-the-badge&logo=gmail&label=Gmail&message=rishikeshmits@gmail.com&color=red)](mailto:rishikeshmits@gmail.com)
+[![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&logo=linkedin&label=LinkedIn&message=Rishikesh-J&color=blue)](https://www.linkedin.com/in/rishikes)
+[![Gmail](https://img.shields.io/static/v1?style=for-the-badge&logo=gmail&label=Gmail&message=rishikeshmits@gmail.com&color=red)](mailto:3008sakshi@gmail.com)
 
 
 ## ME -
